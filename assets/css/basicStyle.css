@@ -1,0 +1,14 @@
+.row {
+  padding: 20px;
+  border-width: 2px;
+  border-color: var(--bs-dark);
+}
+
+.form-control {
+  border-width: 2px;
+  border-color: var(--bs-dark);
+}
+
+input[type=checkbox] {
+  transform: scale(3);
+}
